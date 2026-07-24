@@ -1,3 +1,5 @@
 import './style.css';
 
-console.log('Template ready !');
+// bad
+const a = 1;
+const b = 2;
